@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tiny Boats"
+title: "Autonomous Tiny Robotic Boats"
 category: portfolio
 image: /assets/images/tinyboat.png
 order: 2
