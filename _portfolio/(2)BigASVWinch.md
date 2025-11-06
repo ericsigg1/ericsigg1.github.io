@@ -2,7 +2,7 @@
 layout: single
 title: "Autonomous River Explorer"
 categories: portfolio
-image: /assets/images/heron.jpg
+image: /assets/images/heron.JPG
 order: 2
 ---
 In summer 2022 and 2023, I collaborated with a team of roboticists and geologists to deploy two robotic boats having a sensor suite on the Schuylkill river. The robots were able to, using RTK GPS, autonomously navigate the river, collaboratively collecting data on bathymetry, pH, temperature, salinity, and turbidity. 
